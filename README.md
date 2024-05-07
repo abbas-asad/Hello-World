@@ -1,3 +1,3 @@
-# first_repo
-This is my first Repository 
+# Hello-World!
+My first 'Hello World' repository! Just a simple start to my coding journey. 😊
 
